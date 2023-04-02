@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a Master Student who started his journey as a researcher and interests about:
+I'm a Master Student and my research interests are about:
 
 * Image Analysis
 * Process Visualization
