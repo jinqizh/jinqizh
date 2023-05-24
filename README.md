@@ -2,7 +2,6 @@
 
 I'm a Master Student and my research interests are about:
 
-* Image Analysis
 * Process Visualization
 * AI for Science (about chemistry)
 
