@@ -2,7 +2,7 @@
 
 I'm a Master Student and my research interests are about:
 
-* Origamics
+* Algorithm
 * AI for Science (about Chemistry)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinqi99&theme=swift&show_icons=true)
