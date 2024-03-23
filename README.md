@@ -3,6 +3,9 @@
 I'm a Master Student and my research interests are about:
 
 * Algorithm
+* Cellular automata
+* Computational complexity
+* Parallel algorithm
 * Machine Learning
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinqizh&theme=swift&show_icons=true)
