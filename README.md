@@ -4,9 +4,6 @@ I'm a Master Student and my research interests are about:
 
 * Algorithm 
 * Automata Theory
-* Computational Complexity 
-* Complex System 
-* Artificial Intelligence 
 * Game Theory 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinqizh&theme=swift&show_icons=true)
