@@ -2,7 +2,8 @@
 
 I'm a Master Student and my research interests are about:
 
-* Algorithm 
+* Algorithm
+* NP
 * Automata Theory
 * Game Theory 
 
