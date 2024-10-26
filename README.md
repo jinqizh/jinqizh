@@ -3,7 +3,7 @@
 I'm a Master Student and my research interests are about:
 
 * Algorithm
-* NP Problem
+* NP 
 * Automata Theory
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=workerjinqi&theme=swift&show_icons=true)
